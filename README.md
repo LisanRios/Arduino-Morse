@@ -1,2 +1,2 @@
 # Arduino-Morse
-El proyecto se centró en la creación de un dispositivo Arduino utilizando el lenguaje C. Este dispositivo constaba de una placa Arduino Uno equipada con dos botones (representando los caracteres punto y raya y otro para enviar el código Morse) y una pantalla que visualizaba el texto escrito en dicho código.
+El proyecto se centró en el desarrollo de un dispositivo Arduino, programado en C. Este dispositivo, basado en una placa Arduino Uno, estaba equipado con dos botones que permitían la entrada de texto en código Morse, representando los caracteres punto y raya. Además, contaba con un botón adicional para enviar el código Morse. El texto ingresado en código Morse se visualizaba en una pantalla, permitiendo al usuario ver su entrada en tiempo real.
